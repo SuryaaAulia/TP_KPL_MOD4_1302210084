@@ -1,0 +1,15 @@
+C:\Users\surya\Documents\KPL Praktikum\MOD4\MOD4\MOD4\bin\Debug\net6.0\MOD4.exe
+C:\Users\surya\Documents\KPL Praktikum\MOD4\MOD4\MOD4\bin\Debug\net6.0\MOD4.deps.json
+C:\Users\surya\Documents\KPL Praktikum\MOD4\MOD4\MOD4\bin\Debug\net6.0\MOD4.runtimeconfig.json
+C:\Users\surya\Documents\KPL Praktikum\MOD4\MOD4\MOD4\bin\Debug\net6.0\MOD4.dll
+C:\Users\surya\Documents\KPL Praktikum\MOD4\MOD4\MOD4\bin\Debug\net6.0\MOD4.pdb
+C:\Users\surya\Documents\KPL Praktikum\MOD4\MOD4\MOD4\obj\Debug\net6.0\MOD4.csproj.AssemblyReference.cache
+C:\Users\surya\Documents\KPL Praktikum\MOD4\MOD4\MOD4\obj\Debug\net6.0\MOD4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\surya\Documents\KPL Praktikum\MOD4\MOD4\MOD4\obj\Debug\net6.0\MOD4.AssemblyInfoInputs.cache
+C:\Users\surya\Documents\KPL Praktikum\MOD4\MOD4\MOD4\obj\Debug\net6.0\MOD4.AssemblyInfo.cs
+C:\Users\surya\Documents\KPL Praktikum\MOD4\MOD4\MOD4\obj\Debug\net6.0\MOD4.csproj.CoreCompileInputs.cache
+C:\Users\surya\Documents\KPL Praktikum\MOD4\MOD4\MOD4\obj\Debug\net6.0\MOD4.dll
+C:\Users\surya\Documents\KPL Praktikum\MOD4\MOD4\MOD4\obj\Debug\net6.0\refint\MOD4.dll
+C:\Users\surya\Documents\KPL Praktikum\MOD4\MOD4\MOD4\obj\Debug\net6.0\MOD4.pdb
+C:\Users\surya\Documents\KPL Praktikum\MOD4\MOD4\MOD4\obj\Debug\net6.0\MOD4.genruntimeconfig.cache
+C:\Users\surya\Documents\KPL Praktikum\MOD4\MOD4\MOD4\obj\Debug\net6.0\ref\MOD4.dll
